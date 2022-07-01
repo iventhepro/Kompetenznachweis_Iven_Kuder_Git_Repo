@@ -1,0 +1,8 @@
+ch\ilv\crm\persistence\customer\CustomerDataAccessMock.class
+ch\ilv\crm\persistence\product\IProductDAO.class
+ch\ilv\crm\persistence\product\ProductDAOFactory.class
+ch\ilv\crm\persistence\customer\CustomerDAOFactory.class
+ch\ilv\crm\persistence\customer\ICustomerDAO.class
+ch\ilv\crm\persistence\product\dto\ProductDTO.class
+ch\ilv\crm\persistence\product\ProductDataAccessMock.class
+ch\ilv\crm\persistence\test\DataAccessMockTest.class

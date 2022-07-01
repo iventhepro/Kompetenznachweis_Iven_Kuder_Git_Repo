@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../m154-crm-business-mvn/m154-crm-business-mvn.iml" filepath="$PROJECT_DIR$/../m154-crm-business-mvn/m154-crm-business-mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../m154-crm-persistence-mvn/m154-crm-persistence-mvn.iml" filepath="$PROJECT_DIR$/../m154-crm-persistence-mvn/m154-crm-persistence-mvn.iml" />
+    </modules>
+  </component>
+</project>

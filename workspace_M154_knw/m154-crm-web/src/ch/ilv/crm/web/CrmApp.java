@@ -14,7 +14,7 @@ public class CrmApp {
 
 		Javalin app = Javalin.create();
 
-		app._conf.addStaticFiles("public", Location.CLASSPATH);
+		app._conf.addStaticFiles("C:\\Users\\PC109\\Documents\\GitHub\\Kompetenznachweis_Iven_Kuder_Github\\workspace_M154_knw\\m154-crm-web\\resources\\public", Location.EXTERNAL);
 
         app.routes(() -> {
         	get(Path.Web.CUSTOMERS, CustomerController.showIndex);

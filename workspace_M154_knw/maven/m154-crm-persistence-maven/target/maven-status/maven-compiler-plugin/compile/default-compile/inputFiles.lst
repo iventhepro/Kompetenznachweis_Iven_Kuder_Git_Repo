@@ -1,0 +1,8 @@
+C:\Users\PC109\Documents\GitHub\Kompetenznachweis_Iven_Kuder_Github\workspace_M154_knw\maven\m154-crm-persistence-maven\src\main\java\ch\ilv\crm\persistence\product\dto\ProductDTO.java
+C:\Users\PC109\Documents\GitHub\Kompetenznachweis_Iven_Kuder_Github\workspace_M154_knw\maven\m154-crm-persistence-maven\src\main\java\ch\ilv\crm\persistence\product\IProductDAO.java
+C:\Users\PC109\Documents\GitHub\Kompetenznachweis_Iven_Kuder_Github\workspace_M154_knw\maven\m154-crm-persistence-maven\src\main\java\ch\ilv\crm\persistence\customer\ICustomerDAO.java
+C:\Users\PC109\Documents\GitHub\Kompetenznachweis_Iven_Kuder_Github\workspace_M154_knw\maven\m154-crm-persistence-maven\src\main\java\ch\ilv\crm\persistence\customer\CustomerDataAccessMock.java
+C:\Users\PC109\Documents\GitHub\Kompetenznachweis_Iven_Kuder_Github\workspace_M154_knw\maven\m154-crm-persistence-maven\src\main\java\ch\ilv\crm\persistence\product\ProductDataAccessMock.java
+C:\Users\PC109\Documents\GitHub\Kompetenznachweis_Iven_Kuder_Github\workspace_M154_knw\maven\m154-crm-persistence-maven\src\main\java\ch\ilv\crm\persistence\product\ProductDAOFactory.java
+C:\Users\PC109\Documents\GitHub\Kompetenznachweis_Iven_Kuder_Github\workspace_M154_knw\maven\m154-crm-persistence-maven\src\main\java\ch\ilv\crm\persistence\customer\CustomerDAOFactory.java
+C:\Users\PC109\Documents\GitHub\Kompetenznachweis_Iven_Kuder_Github\workspace_M154_knw\maven\m154-crm-persistence-maven\src\main\java\ch\ilv\crm\persistence\test\DataAccessMockTest.java
